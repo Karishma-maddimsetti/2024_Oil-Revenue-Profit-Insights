@@ -16,10 +16,10 @@ The aim of this project is to visualize the **financial performance** of top oil
 
 📌 Key Insights
 
-* **Saudi Aramco** is the global leader in both **revenue (USD 436B)** and **profit (USD 106.2B)**.
-* **PetroChina** and **ExxonMobil** follow closely in total revenue but with lower profitability.
-* Some companies like **BP** have very low net profit despite high revenue.
-* Asia is showing rising dominance in oil markets, with strong entries from **China, Indonesia, and Malaysia**.
+**Saudi Aramco** is the global leader in both **revenue (USD 436B)** and **profit (USD 106.2B)**.
+**PetroChina** and **ExxonMobil** follow closely in total revenue but with lower profitability.
+Some companies like **BP** have very low net profit despite high revenue.
+Asia is showing rising dominance in oil markets, with strong entries from **China, Indonesia, and Malaysia**.
 
 📍 Visual Components
 
@@ -73,12 +73,9 @@ To explore the dashboard:
 
 📸 Preview
 
-1. Dashboard UI in Power BI  
-![Dashboard Screenshot](./Dashboard-Screenshot.png)
-
+1. Dashboard UI in Power BI
+   
 2. Original Source Graph (Instagram)  
-![Source Graph](./Revenue-and-Profit.jpg)
-
 
 ## 🤝 Acknowledgements
 
